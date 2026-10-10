@@ -34,6 +34,7 @@
         "SM-S938W",
         "SM-S938Z",
         "SC-52F",
+        "SM-X236B",
         "SCG32"
       ],
       "kernelVersions": ["6.6.98"],
@@ -332,5 +333,15 @@
         "size": 4879856
       }
     }
+    {
+  "payloadId": "gta11p-X236BXXS6BZG2",
+  "displayName": "Galaxy Tab A11+ (SM-X236B) | Kernel 6.1.145",
+  "models": ["SM-X236B"],
+  "kernelVersions": ["6.1.145"],
+  "exploit": {
+    "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/gta11p-X236BXXS6BZG2/cve-2026-43499-app.so",
+    "size": 126648
+  }
+}
   ]
 }
