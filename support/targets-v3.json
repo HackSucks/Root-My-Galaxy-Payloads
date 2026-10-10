@@ -317,7 +317,7 @@
         "size": 4783256
       }
     },
-    {
+        {
       "payloadId": "e3q-S9280ZCS6DZF2",
       "displayName": "Galaxy S24 Ultra China | Kernel 6.1.145 (S9280ZCS6DZF2)",
       "models": ["SM-S9280"],
@@ -330,21 +330,22 @@
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e3q-S9280ZCS6DZF2-kdp",
         "size": 4879856
-      },
-    }
+      }
+    },
     {
-  "payloadId": "gta11p-X236BXXS6BZG2",
-  "displayName": "Galaxy Tab A11+ (SM-X236B) | Kernel 6.1.145",
-  "models": ["SM-X236B"],
-  "kernelVersions": ["6.1.145"],
-  "exploit": {
-    "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/gta11p-X236BXXS6BZG2/cve-2026-43499-app.so",
-    "size": 126648
+      "payloadId": "gta11p-X236BXXS6BZG2",
+      "displayName": "Galaxy Tab A11+ (SM-X236B) | Kernel 6.1.145",
+      "models": ["SM-X236B"],
+      "kernelVersions": ["6.1.145"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/gta11p-X236BXXS6BZG2/cve-2026-43499-app.so",
+        "size": 126648
+      },
       "kernelsu": {
-    "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-samsung-android14-6.1-kdp",
-    "size": 6532168
-  }
-  }
-}
+        "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-samsung-android14-6.1-kdp",
+        "size": 6532168
+      }
+    }
   ]
 }
+
