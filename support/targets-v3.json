@@ -341,6 +341,10 @@
   "exploit": {
     "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/gta11p-X236BXXS6BZG2/cve-2026-43499-app.so",
     "size": 126648
+      "kernelsu": {
+    "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-samsung-android14-6.1-kdp",
+    "size": 6532168
+  }
   }
 }
   ]
